@@ -1,0 +1,67 @@
+yes: да
+no: нет
+Does the site use an encrypted connection?: Использует ли сайт зашифрованное соединение?
+You should use encrypted connection, as this could have strong impact on SEO: Вы должны использовать зашифрованное соединение, так как это может сильно повлиять на SEO.
+Does the site use proper robots.txt file?: Использует ли сайт правильный файл robots.txt?
+Robots.txt file blocks some parts of your site from indexing by search engines. Blocking content can have a big negative impact on SEO: Файл robots.txt блокирует некоторые части вашего сайта от индексации поисковыми системами. Блокировка контента может иметь большое негативное влияние на SEO
+Does the site use a site map file "sitemap.xml"?: Использует ли сайт файл карты сайта «sitemap.xml»?
+You should consider adding a sitemap.xml file, as this could help with indexing: Вам следует подумать о добавлении файла sitemap.xml, так как это может помочь с индексацией.
+Time used to load the page [sec.]: Время загрузки страницы [сек.]
+The site takes very long to load. You should definitely consider rebuilding the page and/or change the hosting provider: Сайт очень долго загружается. Вам определенно следует подумать о восстановлении страницы и/или смене хостинг-провайдера.
+You should optimise your site for faster loading, as this could have strong impact on SEO: Вы должны оптимизировать свой сайт для более быстрой загрузки, так как это может сильно повлиять на SEO.
+The site loads very fast: Сайт загружается очень быстро
+The size of the page: Размер страницы
+The site is very big. You should consider rebuilding the page to optimise its size: Сайт очень большой. Вам следует подумать о перестроении страницы, чтобы оптимизировать ее размер.
+You should consider some optimisation of the page to decrease its size: Вы должны рассмотреть некоторую оптимизацию страницы, чтобы уменьшить ее размер.
+The size of your page is ok: Размер вашей страницы в порядке
+The size of the page URL: Размер URL-адреса страницы
+The site URL is very long. You should consider using some shorter URL: URL-адрес сайта очень длинный. Вам следует рассмотреть возможность использования более короткого URL-адреса
+You should consider using some shorter URL: Вам следует рассмотреть возможность использования более короткого URL-адреса
+The size of URL is ok: Размер URL в порядке
+The ratio of page content to page code [%]: Отношение содержания страницы к коду страницы [%]
+Content to code ratio is too low. Consider adding more text to your page or remove some unnecessary html code: Соотношение содержания и кода слишком низкое. Подумайте о том, чтобы добавить больше текста на свою страницу или удалить ненужный HTML-код.
+Consider adding more text to your page or remove unnecessary html code. Good content have crucial impact on SEO: Подумайте о том, чтобы добавить больше текста на свою страницу или удалить ненужный HTML-код. Хороший контент имеет решающее значение для SEO
+Page has good content to code ratio: Страница имеет хорошее соотношение содержания и кода
+Keyword density in page content: Плотность ключевых слов в содержании страницы
+There are some overused keywords on site. You should consider limiting the use of overused phrases: На сайте есть некоторые чрезмерно используемые ключевые слова. Вам следует подумать об ограничении использования заезженных фраз.
+The keywords density on the site looks good: Плотность ключевых слов на сайте выглядит хорошо
+Keyword density: Плотность ключевых слов
+Alternate texts for images: Альтернативные тексты для изображений
+There is nothing to do here as there is no images on the site.: Здесь делать нечего, так как на сайте нет изображений.
+There is a lot of images without alternate texts on your site. Every image should be described with alt attribute: На вашем сайте много изображений без альтернативного текста. Каждое изображение должно быть описано с атрибутом alt
+You should optimise your site adding missing alt descriptions to images, as this could have strong impact on SEO: Вы должны оптимизировать свой сайт, добавляя отсутствующие альтернативные описания к изображениям, так как это может сильно повлиять на SEO.
+Good! All images on site have alternate descriptions: Хороший! Все изображения на сайте имеют альтернативные описания
+Keyword density in page headers: Плотность ключевых слов в заголовках страниц
+There are some overused keywords in headers. You should consider limiting the use of those phrases: В заголовках есть несколько часто используемых ключевых слов. Вам следует подумать об ограничении использования этих фраз
+The keywords density in headers looks good: Плотность ключевых слов в заголовках выглядит хорошо
+Html headers metric: Метрика заголовков HTML
+Looks the site has no headers at all. You should rebuild your page structure as html headers have strong impact on SEO: Похоже, на сайте вообще нет заголовков. Вам следует перестроить структуру страницы, так как html-заголовки сильно влияют на SEO.
+There is no H1 header on the site. You should rebuild your page to use main headers as this has strong impact on SEO: На сайте нет заголовка H1. Вы должны перестроить свою страницу, чтобы использовать основные заголовки, так как это сильно влияет на SEO.
+There are multiple H1 headers on the site. You should use only one main header on the site: На сайте есть несколько заголовков H1. Вы должны использовать только один основной заголовок на сайте
+The H1 header is too long. You should consider changing it to something shorter including your main keyword: Заголовок H1 слишком длинный. Вам следует подумать об изменении его на что-то более короткое, включая ваше основное ключевое слово.
+There are no H2 headers on the site. You should consider rebuild your page to use proper headers structure: На сайте нет заголовков H2. Вам следует подумать о том, чтобы перестроить свою страницу, чтобы использовать правильную структуру заголовков.
+There are a lot of H2 headers on the site. You should limit number of H2 headers: На сайте много заголовков H2. Вы должны ограничить количество заголовков H2
+There are no H3 header on the site. Using proper headers structure can improve the SEO: На сайте нет заголовка H3. Использование правильной структуры заголовков может улучшить SEO.
+The headers structure on the site looks very good: Структура заголовков на сайте выглядит очень хорошо
+Good! The key phrase is present in most popular keywords on the site: Хорошо! Ключевая фраза присутствует в самых популярных ключевых словах на сайте
+You should consider adding your keyword to the site content: Вам следует подумать о добавлении ключевого слова в содержание сайта.
+Does the headers contain a key phrase?: Содержат ли заголовки ключевую фразу?
+The main H1 header does not contain the keyword phrase. Adding it could strongly improve SEO: Основной заголовок H1 не содержит ключевой фразы. Его добавление может сильно улучшить SEO
+Good! The site headers contain the keyword phrase: Хорошо! Заголовки сайта содержат ключевую фразу
+The site H2 headers does not contain the keyword phrase. Adding it could strongly improve SEO: Заголовки сайта H2 не содержат ключевой фразы. Его добавление может сильно улучшить SEO
+Does the page contain a key phrase?: Содержит ли страница ключевую фразу?
+Does it contain a key phrase?: Содержит ли он ключевую фразу?
+Can not find the keyword phrase. Adding it could improve SEO: Не удается найти ключевую фразу. Его добавление может улучшить SEO
+Good! Found the keyword phrase: Хорошо! Нашел ключевую фразу
+Html meta tags information: Информация о метатегах HTML
+Missing page title and description meta tags. You should add the title meta tag at least: Отсутствуют метатеги заголовка и описания страницы. Вы должны добавить метатег title по крайней мере
+The page title length should be between 10 and 60 characters. Title should also include your main keyword: Длина заголовка страницы должна быть от 10 до 60 символов. Заголовок также должен включать ваше основное ключевое слово.
+Missing page meta description tag. We strongly recommend to add it. It should be between 30 and 120 characters and should include your main keyword: Отсутствует тег мета-описания страницы. Мы настоятельно рекомендуем добавить его. Он должен содержать от 30 до 120 символов и включать основное ключевое слово.
+The page meta description length should be between 30 and 120 characters. Description should also include your main keyword: Длина метаописания страницы должна быть от 30 до 120 символов. Описание также должно включать основное ключевое слово.
+The site meta tags look good: Метатеги сайта выглядят хорошо
+The key phrase is overused on the site. Try to reduce its occurrence: Ключевая фраза на сайте используется слишком часто. Постарайтесь уменьшить его появление
+Does the main URL redirects to other?: Перенаправляет ли основной URL-адрес на другой?
+You should avoid redirects, as this could have impact on SEO: Вам следует избегать редиректов, так как это может повлиять на SEO.
+Looks that your site content is empty: Похоже, содержимое вашего сайта пусто
+Can not read your page content: Не могу прочитать содержимое вашей страницы
+The page load time could not be measured: Время загрузки страницы не может быть измерено
