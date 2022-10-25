@@ -25,6 +25,6 @@ return [
         [Factor::KEYWORD_TITLE => 'keyword'],
         [Factor::KEYWORD_DESCRIPTION => 'keyword'],
         Factor::KEYWORD_HEADERS,
-        [Factor::KEYWORD_DENSITY => 'keywordDensity']
+//         [Factor::KEYWORD_DENSITY => 'keywordDensity']
     ]
 ];
